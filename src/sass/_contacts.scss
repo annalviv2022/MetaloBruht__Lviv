@@ -1,0 +1,32 @@
+.contacts {
+    margin-bottom: 0;
+    padding-bottom: 94px;
+}
+
+.contacts__part1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.contacts__title {
+margin-bottom: 20px;    
+}
+
+.contacts__part2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.contacts__text {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.contacts__text2 {
+    text-align: center;
+}

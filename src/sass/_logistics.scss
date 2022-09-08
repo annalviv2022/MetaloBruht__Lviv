@@ -1,0 +1,15 @@
+.logistics-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logistics__part1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.logistics__text {
+    font-size: 14px;
+}
